@@ -1,0 +1,9 @@
+com\mycompany\beans\ClienteFacade.class
+com\mycompany\beans\CuentasFacade.class
+com\mycompany\beans\TransaccionesFacadeLocal.class
+com\mycompany\beans\ClienteFacadeLocal.class
+com\mycompany\beans\CuentasFacadeLocal.class
+com\mycompany\beans\TipoTransaccionFacadeLocal.class
+com\mycompany\beans\AbstractFacade.class
+com\mycompany\beans\TipoTransaccionFacade.class
+com\mycompany\beans\TransaccionesFacade.class
